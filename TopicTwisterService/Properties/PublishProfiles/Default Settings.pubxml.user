@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7rvZu1rrvEOucvmK8uE00gAAAAACAAAAAAAQZgAAAAEAACAAAAASZpW0Lzor33OzoO2eNfWYXqpY+Fx84hY62nBbhvg0VQAAAAAOgAAAAAIAACAAAAAnUoGGkrRslu+UyH0sEwcngvCdPvzZvl4KcQnjAxq5GyAAAABxnQGMlo020MMJRToQMffa4WU6o1pgFtRcO7U9OtRF7kAAAABO1r+85P1bUcbbtJq1jwfgxozCySrb36BgmR+n+1kJ6yrmEd4dS+Jg10jZFZ5sBD0EuLXHou/dd/9e/1m+Po5P</EncryptedPassword>
+    <History>True|2022-02-19T21:12:10.8654322Z;True|2022-02-18T11:21:24.8722696-03:00;False|2022-02-18T11:20:49.6382640-03:00;False|2022-02-18T11:20:07.6438099-03:00;True|2022-02-18T10:56:03.7930968-03:00;False|2022-02-18T10:55:15.7784163-03:00;True|2022-02-18T10:38:25.9024867-03:00;True|2022-02-17T14:45:04.3381791-03:00;True|2022-02-15T12:10:34.5567211-03:00;False|2022-02-15T12:09:58.4042340-03:00;False|2022-02-15T12:08:57.3064806-03:00;True|2022-02-15T11:43:27.5497378-03:00;False|2022-02-15T11:42:10.9154507-03:00;False|2022-02-15T11:41:21.4201091-03:00;True|2022-02-15T11:25:37.8429644-03:00;False|2022-02-15T11:24:43.6048097-03:00;True|2022-02-15T11:23:25.5342816-03:00;True|2022-02-15T11:15:26.5241534-03:00;False|2022-02-15T11:14:15.5399579-03:00;False|2022-02-15T11:13:32.0703077-03:00;False|2022-02-15T11:09:12.3782893-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="DataContext">
+      <Value>Data Source=SQL5109.site4now.net%3bInitial Catalog=db_a82027_topictwistter%3bUser Id=db_a82027_topictwistter_admin%3bPassword=LosGrosos1</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
